@@ -89,8 +89,10 @@ The area chart was used to analyze the trend of profits over the months. This ap
 
 ## Results
 1. Disbursement Trends
-    - Peak Activity:
-    - Low Activity: 
+    - Peak Activity: January recorded the highest loan disbursements, exceeding $95 million. This peak suggests strong loan issuance at the beginning of the year, possibly due to New Year financial resolutions or seasonal promotions.
+
+    - Low Activity: April had the lowest loan disbursements, slightly above $39 million. This dip indicates a potential slowdown in loan activity, which could be attributed to seasonal trends or reduced consumer demand during that period.
+      
 2. 
 
 
