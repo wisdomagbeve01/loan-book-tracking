@@ -37,3 +37,15 @@ The dataset for this project was sourced from [Prosper Loan Dataset](https://www
 
 1. **SQL:** Utilized for querying and managing the loan dataset, extracting relevant data for analysis.
 2. **Tableau:** Employed for creating interactive visualizations and dashboards, enabling in-depth exploration of loan performance metrics and trends.
+
+## Data Cleaning & Preparation
+
+The data cleaning and preparation process involved the following steps:
+
+1. **Data Import and Initial Review:** Imported the dataset into SQL for preliminary exploration. Conducted an initial review to identify missing values and inconsistencies.
+Handling Missing Values: Addressed missing data by:
+Removing records with excessive missing information.
+Imputing missing values where feasible, using mean or median values for numerical fields.
+Data Transformation:
+Standardization: Standardized formats for dates and categorical variables to ensure consistency.
+Normalization: Normalized numerical values where necessary to facilitate accurate analysis.
