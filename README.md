@@ -89,3 +89,12 @@ The area chart was used to analyze the trend of profits over the months. This ap
 
 ## Results
 
+
+
+## Limitations
+
+
+
+
+## Recommendations
+
