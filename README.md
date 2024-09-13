@@ -101,7 +101,7 @@ The area chart was used to analyze the trend of profits over the months. This ap
     - **Trend:** Variations in the Debt-to-Income Ratio over time were found to impact loan repayment patterns, highlighting the importance of monitoring this ratio for financial health.
 4. Returns:
     - **Profit Fluctuations** The area chart showed fluctuations in returns over the years, with specific periods (January 2011) of high profitability. This suggests that profitability may be influenced by factors such as economic conditions or loan performance.
-    - **Consistent Periods:** Some months demonstrated consistent profit levels (June 2012 to November 2011) indicating stability in returns and effective financial management during these times.
+    - **Consistent Periods:** Some months demonstrated consistent profit levels (June 2011 to November 2011) indicating stability in returns and effective financial management during these times.
 
 
 
