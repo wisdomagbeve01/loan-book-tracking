@@ -28,6 +28,6 @@ The project involves data cleaning, exploratory data analysis (EDA), and visuali
 ## Data Description
 The dataset for this project was sourced from [Prosper Loan Dataset](https://www.kaggle.com/datasets/nurudeenabdulsalaam/prosper-loan-dataset) and contains detailed information on loans issued by Prosper. The dataset includes 113,937 records and 81 columns, of which 12 key features were selected for analysis. The data represents customers with various loan outcomes:
 
-Paid off loans: Customers who successfully repaid their loans.
-Past due loans: Customers who fell behind on payments and were sent to collections without paying back the loan or interest.
-Collections paid off: Customers who eventually paid off their loans after being sent to collections.
+- **Paid off loans:** Customers who successfully repaid their loans.
+- **Past due loans:** Customers who fell behind on payments and were sent to collections without paying back the loan or interest.
+- **Collections paid off:** Customers who eventually paid off their loans after being sent to collections.
