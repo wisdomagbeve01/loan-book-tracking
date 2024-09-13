@@ -93,7 +93,10 @@ The area chart was used to analyze the trend of profits over the months. This ap
 
     - Low Activity: April had the lowest loan disbursements, slightly above $39 million. This dip indicates a potential slowdown in loan activity, which could be attributed to seasonal trends or reduced consumer demand during that period.
       
-2. 
+2. Loss Rates
+     - Higher Loss Rates: January and March both exhibited higher loss rates, each at 0.400. These elevated rates suggest potential issues with loan performance or increased borrower defaults during these months.
+     - Lower Loss rates: July had a lower loss rate of 0.340. This decrease indicates better loan performance or more effective risk management during the mid-year period.  
+3. 
 
 
 ## Limitations
