@@ -20,3 +20,10 @@ This project focuses on analyzing the Prosper Loan dataset to provide insights i
 The project involves data cleaning, exploratory data analysis (EDA), and visualization to extract actionable insights from the dataset.
 
 ![Dashboard 1](https://github.com/user-attachments/assets/2a19cb45-39e7-418b-ba65-4254501ab550)
+
+## Data Source
+
+`Kaggle`
+
+## Data Description
+
