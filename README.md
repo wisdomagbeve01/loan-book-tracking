@@ -9,7 +9,7 @@
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Key Metrics Measured](#key-metrics-measured)
 - [Visualizations](#visualizations)
-- [Results](#results-and-insights)
+- [Results](#results)
 - [Limitations](#limitations)
 - [Recommendations](#recommendations)
 
