@@ -38,7 +38,7 @@ The dataset for this project was sourced from [Prosper Loan Dataset](https://www
 1. **SQL:** Utilized for querying and managing the loan dataset, extracting relevant data for analysis.
 2. **Tableau:** Employed for creating interactive visualizations and dashboards, enabling in-depth exploration of loan performance metrics and trends.
 
-## Data Cleaning & Preparation
+## Data Cleaning
 
 The data cleaning and preparation process involved the following steps:
 
@@ -63,7 +63,7 @@ During the EDA phase, several key questions were addressed to explore and unders
 3. How do payments correlate with the Debt-to-Income Ratio across months?
 4. What trends are observed in returns over the months?
   
-## Key Metrics Meausred
+## Key Metrics Measured
 `Loan Disbursements`, `Payments of Debts and Income Ratio`, `Loss Rate`, `Total Returns`
 
 ## Visualizations
