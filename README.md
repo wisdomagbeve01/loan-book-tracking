@@ -11,7 +11,7 @@
 - [Visualizations](#visualizations)
 - [Results](#results-and-insights)
 - [Limitations](#limitations)
-- Recommendations(#recommendations)
+- [Recommendations](#recommendations)
 
 ## Project Overview
 
