@@ -64,7 +64,7 @@ During the EDA phase, several key questions were addressed to explore and unders
 4. What trends are observed in returns over the months?
   
 ## Key Metrics Meausred
-`Total Loan Disbursements`, `Payments of Debts and Income Ratio`, `Loss Rate`, `Total Returns`
+`Loan Disbursements`, `Payments of Debts and Income Ratio`, `Loss Rate`, `Total Returns`
 
 ## Visualizations
 1. Analyzed monthly trends in loan disbursements to identify patterns and seasonality.
