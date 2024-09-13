@@ -38,7 +38,7 @@ The dataset for this project was sourced from [Prosper Loan Dataset](https://www
 1. **SQL:** Utilized for querying and managing the loan dataset, extracting relevant data for analysis.
 2. **Tableau:** Employed for creating interactive visualizations and dashboards, enabling in-depth exploration of loan performance metrics and trends.
 
-## Data Cleaning
+## Data Cleaning & Preparation
 
 The data cleaning and preparation process involved the following steps:
 
