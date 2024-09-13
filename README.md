@@ -53,3 +53,4 @@ The data cleaning and preparation process involved the following steps:
     - Standardized formats for dates and categorical variables to ensure consistency.
 5. **Data Aggregation:**
     - Aggregated data to create summary metrics and facilitate more detailed analysis.
+
