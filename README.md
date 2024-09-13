@@ -2,11 +2,11 @@
 
 ## Table of Contents
 
-- Project Overview
-- Data Description
-- Tools Used
-- Data Cleaning & Preparation
-- Exploratory Data Analysis (EDA)
+- [Project Overview](#project-overview)
+- [Data Description](#data-description)
+- [Tools Used](#tools-used)
+- [Data Cleaning](#data-cleaning)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
 - Key Metrics Analyzed
 - Visualizations
 - Results & Insights
@@ -38,7 +38,7 @@ The dataset for this project was sourced from [Prosper Loan Dataset](https://www
 1. **SQL:** Utilized for querying and managing the loan dataset, extracting relevant data for analysis.
 2. **Tableau:** Employed for creating interactive visualizations and dashboards, enabling in-depth exploration of loan performance metrics and trends.
 
-## Data Cleaning & Preparation
+## Data Cleaning
 
 The data cleaning and preparation process involved the following steps:
 
@@ -54,7 +54,7 @@ The data cleaning and preparation process involved the following steps:
 5. **Data Aggregation:**
     - Aggregated data to create summary metrics and facilitate more detailed analysis.
 
-## Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis
 
 During the EDA phase, several key questions were addressed to explore and understand the dataset:
 
