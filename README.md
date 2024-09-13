@@ -47,4 +47,8 @@ The data cleaning and preparation process involved the following steps:
     - Imputing missing values where feasible, using mean or median values for numerical fields.
 3. **Data Filtering:**
     - Used SQL `WHERE` clauses to filter out dates that had empty values, ensuring that only complete records were included in the analysis.
-5. 
+    - Filtered out irrelevant records and columns to focus on key features related to loan performance.
+5. **Data Transformation:**
+    - Standardized formats for dates and categorical variables to ensure consistency.
+6. **Data Aggregation:**
+    - Aggregated data to create summary metrics and facilitate more detailed analysis.
