@@ -80,6 +80,9 @@ The treemap visualization was used to represent the loss rates across different 
 
 The dual combination chart was used to compare loan payments with the Debt-to-Income Ratio across months. This visualization enables us to assess how changes in debt income correlate with loan payments over time, revealing potential impacts on borrower repayment behavior and financial health.
 
-- Analyzed monthly trends in returns to identify patterns and any significant changes.
+4. Analyzed monthly trends in returns to identify patterns and any significant changes.
+<img width="1470" alt="Screenshot 2024-09-13 at 5 32 58 PM" src="https://github.com/user-attachments/assets/15c823f5-9056-4b59-9b22-4ee35f7b7bea">
+
+The area chart was used to analyze the trend of profits over the months. This approach allows us to identify specific periods with significant changes in profitability, such as peaks or dips, and assess the impact of these fluctuations on overall financial performance.
 
 
