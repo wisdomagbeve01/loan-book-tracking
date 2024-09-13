@@ -45,5 +45,6 @@ The data cleaning and preparation process involved the following steps:
 1. **Data Import and Initial Review:** Imported the dataset into SQL for preliminary exploration. Conducted an initial review to identify missing values and inconsistencies.
 2. **Handling Missing Values:** Addressed missing data by:
     - Imputing missing values where feasible, using mean or median values for numerical fields.
-3. **Data Filtering:** Used SQL `WHERE` clauses to filter out dates that had empty values, ensuring that only complete records were included in the analysis.
-4. 
+3. **Data Filtering:**
+    - Used SQL `WHERE` clauses to filter out dates that had empty values, ensuring that only complete records were included in the analysis.
+5. 
