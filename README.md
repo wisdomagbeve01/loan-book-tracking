@@ -60,7 +60,8 @@ During the EDA phase, several key questions were addressed to explore and unders
 
 1. How do loan disbursements vary over the months?
     - Analyzed monthly trends in loan disbursements to identify patterns and seasonality.
-
+<img width="1470" alt="Screenshot 2024-09-13 at 4 57 29 PM" src="https://github.com/user-attachments/assets/dd4e76d3-69b4-41eb-bb39-d27862147807">
+The horizontal bar graph was used to compare loan disbursements across different months. This visualization helps identify trends and seasonal variations in disbursement amounts, highlighting periods of high or low loan activity throughout the year.
 
 2. What is the relationship between loss rates and time?
     - Examined how loss rates changed over time to assess any emerging trends or fluctuations.
