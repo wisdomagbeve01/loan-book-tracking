@@ -43,9 +43,5 @@ The dataset for this project was sourced from [Prosper Loan Dataset](https://www
 The data cleaning and preparation process involved the following steps:
 
 1. **Data Import and Initial Review:** Imported the dataset into SQL for preliminary exploration. Conducted an initial review to identify missing values and inconsistencies.
-Handling Missing Values: Addressed missing data by:
-Removing records with excessive missing information.
-Imputing missing values where feasible, using mean or median values for numerical fields.
-Data Transformation:
-Standardization: Standardized formats for dates and categorical variables to ensure consistency.
-Normalization: Normalized numerical values where necessary to facilitate accurate analysis.
+2. **Handling Missing Values:** Addressed missing data by:
+    - Imputing missing values where feasible, using mean or median values for numerical fields.
