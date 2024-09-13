@@ -59,26 +59,27 @@ The data cleaning and preparation process involved the following steps:
 During the EDA phase, several key questions were addressed to explore and understand the dataset:
 
 1. How do loan disbursements vary over the months?
-    
 2. What is the relationship between loss rates and time?
-    - Examined how loss rates changed over time to assess any emerging trends or fluctuations.
+3. How do payments correlate with the Debt-to-Income Ratio across months?
+4. What trends are observed in returns over the months?
+  
+## Key Metrics Meausred
+
+1. Analyzed monthly trends in loan disbursements to identify patterns and seasonality.
+<img width="1470" alt="Screenshot 2024-09-13 at 4 57 29 PM" src="https://github.com/user-attachments/assets/dd4e76d3-69b4-41eb-bb39-d27862147807">
+
+The horizontal bar graph was used to compare loan disbursements across different months. This visualization helps identify trends and seasonal variations in disbursement amounts, highlighting periods of high or low loan activity throughout the year.
+
+2. Examined how loss rates changed over time to assess any emerging trends or fluctuations.
 <img width="1470" alt="Screenshot 2024-09-13 at 5 10 35 PM" src="https://github.com/user-attachments/assets/a46b873b-cc60-46a0-b315-f5f06a52308e">
+
 The treemap visualization was used to represent the loss rates across different months. This allows for a clear comparison of loss levels and helps identify which months had higher or lower loss rates, facilitating the detection of patterns or anomalies in financial performance.
 
-3. How do payments correlate with the Debt-to-Income Ratio across months?
-    - Investigated the correlation between loan payments and Debt-to-Income Ratio to understand their relationship and impact on loan performance.
-
-
+3. Investigated the correlation between loan payments and Debt-to-Income Ratio to understand their relationship and impact on loan performance.
 <img width="1465" alt="Screenshot 2024-09-13 at 5 19 11 PM" src="https://github.com/user-attachments/assets/f0d677a1-a2a6-46f9-9494-f3e712695e02">
 
 The dual combination chart was used to compare loan payments with the Debt-to-Income Ratio across months. This visualization enables us to assess how changes in debt income correlate with loan payments over time, revealing potential impacts on borrower repayment behavior and financial health.
 
+- Analyzed monthly trends in returns to identify patterns and any significant changes.
 
-4. What trends are observed in returns over the months?
-    - Analyzed monthly trends in returns to identify patterns and any significant changes.
-  
-## Key Metrics Meausred
-- Analyzed monthly trends in loan disbursements to identify patterns and seasonality.
-<img width="1470" alt="Screenshot 2024-09-13 at 4 57 29 PM" src="https://github.com/user-attachments/assets/dd4e76d3-69b4-41eb-bb39-d27862147807">
-The horizontal bar graph was used to compare loan disbursements across different months. This visualization helps identify trends and seasonal variations in disbursement amounts, highlighting periods of high or low loan activity throughout the year.
 
