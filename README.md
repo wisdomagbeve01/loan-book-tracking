@@ -94,8 +94,13 @@ The area chart was used to analyze the trend of profits over the months. This ap
       
 2. Loss Rates
      - **Higher Loss Rates:** January and March both exhibited higher loss rates, each at 0.400. These elevated rates suggest potential issues with loan performance or increased borrower defaults during these months.
-     - **Lower Loss rates:** July had a lower loss rate of 0.340. This decrease indicates better loan performance or more effective risk management during the mid-year period.  
-3. 
+     - **Lower Loss rates:** July had a lower loss rate of 0.340. This decrease indicates better loan performance or more effective risk management during the mid-year period.
+       
+3. Payments and Debt-to-Income Ratio:
+    - **Correlation:** The analysis revealed a correlation between the Debt-to-Income Ratio and loan payments, indicating that higher debt levels might affect the borrower’s ability to make timely payments.
+    - **Trend:** Variations in the Debt-to-Income Ratio over time were found to impact loan repayment patterns, highlighting the importance of monitoring this ratio for financial health.
+4. 
+
 
 
 ## Limitations
