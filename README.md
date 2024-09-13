@@ -7,9 +7,9 @@
 - [Tools Used](#tools-used)
 - [Data Cleaning](#data-cleaning)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
-- Key Metrics Analyzed
-- Visualizations
-- Results & Insights
+- [Key Metrics Measured](#key-metrics-measured)
+- [Visualizations](#visualizations)
+- [Results & Insights](#results-and-insights)
 - Limitations
 - Conclusion & Recommendations
 
