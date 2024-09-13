@@ -54,3 +54,19 @@ The data cleaning and preparation process involved the following steps:
 5. **Data Aggregation:**
     - Aggregated data to create summary metrics and facilitate more detailed analysis.
 
+## Exploratory Data Analysis (EDA)
+
+During the EDA phase, several key questions were addressed to explore and understand the dataset:
+
+1. How do loan disbursements vary over the months?
+    - Analyzed monthly trends in loan disbursements to identify patterns and seasonality.
+
+
+2. What is the relationship between loss rates and time?
+    - Examined how loss rates changed over time to assess any emerging trends or fluctuations.
+
+3. How do payments correlate with the Debt-to-Income Ratio across months?
+    - Investigated the correlation between loan payments and Debt-to-Income Ratio to understand their relationship and impact on loan performance.
+
+4. What trends are observed in returns over the months?
+    - Analyzed monthly trends in returns to identify patterns and any significant changes.
