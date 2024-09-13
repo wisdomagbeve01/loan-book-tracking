@@ -72,6 +72,10 @@ The treemap visualization was used to represent the loss rates across different 
     - Investigated the correlation between loan payments and Debt-to-Income Ratio to understand their relationship and impact on loan performance.
 
 
+<img width="1465" alt="Screenshot 2024-09-13 at 5 19 11 PM" src="https://github.com/user-attachments/assets/f0d677a1-a2a6-46f9-9494-f3e712695e02">
+
+The dual combination chart was used to compare loan payments with the Debt-to-Income Ratio across months. This visualization enables us to assess how changes in debt income correlate with loan payments over time, revealing potential impacts on borrower repayment behavior and financial health.
+
 
 4. What trends are observed in returns over the months?
     - Analyzed monthly trends in returns to identify patterns and any significant changes.
