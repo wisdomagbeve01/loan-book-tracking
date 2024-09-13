@@ -5,13 +5,13 @@
 - [Project Overview](#project-overview)
 - [Data Description](#data-description)
 - [Tools Used](#tools-used)
-- [Data Cleaning & Preparation](#data-cleaning)
-- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis)
+- [Data Cleaning](#data-cleaning)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Key Metrics Measured](#key-metrics-measured)
 - [Visualizations](#visualizations)
-- [Results & Insights](#results-and-insights)
-- Limitations
-- Conclusion & Recommendations
+- [Results](#results-and-insights)
+- [Limitations](#limitations)
+- Recommendations(#recommendations)
 
 ## Project Overview
 
