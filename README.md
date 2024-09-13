@@ -87,5 +87,5 @@ The dual combination chart was used to compare loan payments with the Debt-to-In
 
 The area chart was used to analyze the trend of profits over the months. This approach allows us to identify specific periods with significant changes in profitability, such as peaks or dips, and assess the impact of these fluctuations on overall financial performance.
 
-## 
+## Results
 
