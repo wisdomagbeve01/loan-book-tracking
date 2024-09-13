@@ -65,6 +65,8 @@ The horizontal bar graph was used to compare loan disbursements across different
 
 2. What is the relationship between loss rates and time?
     - Examined how loss rates changed over time to assess any emerging trends or fluctuations.
+<img width="1470" alt="Screenshot 2024-09-13 at 5 06 25 PM" src="https://github.com/user-attachments/assets/af52f5c9-2daf-4986-9c1e-41464c5a15cb">
+The tree map visualization was used to represent the loss rates across different months. This allows for a clear comparison of loss levels and helps identify which months had higher or lower loss rates, facilitating the detection of patterns or anomalies in financial performance.
 
 3. How do payments correlate with the Debt-to-Income Ratio across months?
     - Investigated the correlation between loan payments and Debt-to-Income Ratio to understand their relationship and impact on loan performance.
