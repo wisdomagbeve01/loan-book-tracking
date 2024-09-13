@@ -100,7 +100,7 @@ The area chart was used to analyze the trend of profits over the months. This ap
     - **Correlation:** The analysis revealed a correlation between the Debt-to-Income Ratio and loan payments, indicating that higher debt levels might affect the borrower’s ability to make timely payments.
     - **Trend:** Variations in the Debt-to-Income Ratio over time were found to impact loan repayment patterns, highlighting the importance of monitoring this ratio for financial health.
 4. Returns:
-    - **Profit Fluctuations:** The area chart showed fluctuations in returns over the months, with specific periods of high profitability. This suggests that profitability may be influenced by factors such as economic conditions or loan performance.
+    - **Profit Fluctuations** The area chart showed fluctuations in returns over the years, with specific periods (May 2012, August 2011, and January 2011, etc.) of high profitability. This suggests that profitability may be influenced by factors such as economic conditions or loan performance.
     - **Consistent Periods:** Some months demonstrated consistent profit levels, indicating stability in returns and effective financial management during these times.
 
 
