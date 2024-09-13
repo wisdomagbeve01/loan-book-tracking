@@ -42,13 +42,14 @@ The dataset for this project was sourced from [Prosper Loan Dataset](https://www
 
 The data cleaning and preparation process involved the following steps:
 
-1. **Data Import and Initial Review:** Imported the dataset into SQL for preliminary exploration. Conducted an initial review to identify missing values and inconsistencies.
+1. **Data Import and Initial Review:**
+    - Imported the dataset into SQL for preliminary exploration. Conducted an initial review to identify missing values and inconsistencies.
 2. **Handling Missing Values:** Addressed missing data by:
     - Imputing missing values where feasible, using mean or median values for numerical fields.
 3. **Data Filtering:**
     - Used SQL `WHERE` clauses to filter out dates that had empty values, ensuring that only complete records were included in the analysis.
     - Filtered out irrelevant records and columns to focus on key features related to loan performance.
-5. **Data Transformation:**
+4. **Data Transformation:**
     - Standardized formats for dates and categorical variables to ensure consistency.
-6. **Data Aggregation:**
+5. **Data Aggregation:**
     - Aggregated data to create summary metrics and facilitate more detailed analysis.
