@@ -64,7 +64,9 @@ During the EDA phase, several key questions were addressed to explore and unders
 4. What trends are observed in returns over the months?
   
 ## Key Metrics Meausred
+`Total Loan Disbursements`, `Payments of Debts and Income Ratio`, `Loss Rate`, `Total Returns`
 
+## Visualizations
 1. Analyzed monthly trends in loan disbursements to identify patterns and seasonality.
 <img width="1470" alt="Screenshot 2024-09-13 at 4 57 29 PM" src="https://github.com/user-attachments/assets/dd4e76d3-69b4-41eb-bb39-d27862147807">
 
@@ -85,5 +87,5 @@ The dual combination chart was used to compare loan payments with the Debt-to-In
 
 The area chart was used to analyze the trend of profits over the months. This approach allows us to identify specific periods with significant changes in profitability, such as peaks or dips, and assess the impact of these fluctuations on overall financial performance.
 
-## Visualizations
+## 
 
