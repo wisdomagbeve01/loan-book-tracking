@@ -15,7 +15,7 @@
 
 ## Project Overview
 
-This project focuses on analyzing the Prosper Loan dataset to provide insights into loan performance and borrower behavior. The dataset includes financial metrics such as Borrower Rate, Estimated Loss, Estimated Return, Debt-to-Income ratio, and more. By leveraging data analysis techniques, the goal is to track key trends and identify factors influencing loan profitability and risk. This analysis can help optimize loan decisions and improve overall financial performance.
+This project focuses on analyzing a financial dataset to provide insights into loan performance and borrower behavior. The dataset includes financial metrics such as Borrower Rate, Estimated Loss, Estimated Return, Debt-to-Income ratio, and more. By leveraging data analysis techniques, the goal is to track key trends and identify factors influencing loan profitability and risk. This analysis can help optimize loan decisions and improve overall financial performance.
 
 The project involves data cleaning, exploratory data analysis (EDA), and visualization to extract actionable insights from the dataset.
 
