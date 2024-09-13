@@ -88,6 +88,7 @@ The dual combination chart was used to compare loan payments with the Debt-to-In
 The area chart was used to analyze the trend of profits over the months. This approach allows us to identify specific periods with significant changes in profitability, such as peaks or dips, and assess the impact of these fluctuations on overall financial performance.
 
 ## Results
+
 1. Disbursement Trends
     - **Peak Activity:** January recorded the highest loan disbursements, exceeding $95 million. This peak suggests strong loan issuance at the beginning of the year, possibly due to New Year financial resolutions or seasonal promotions.
     - **Low Activity:** April had the lowest loan disbursements, slightly above $39 million. This dip indicates a potential slowdown in loan activity, which could be attributed to seasonal trends or reduced consumer demand during that period.
@@ -107,6 +108,9 @@ The area chart was used to analyze the trend of profits over the months. This ap
 
 ## Limitations
 
+- **Data Scope:** The analysis is constrained by the dataset's limitations, which may not encompass all influencing factors.
+- **Temporal Bias:** Observed trends may be affected by seasonal or economic conditions specific to the data period.
+- **Missing Data:** Missing values or data gaps could impact the accuracy and completeness of the insights.
 
 
 
