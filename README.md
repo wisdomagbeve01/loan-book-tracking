@@ -12,7 +12,7 @@
 - [Results](#results)
 - [Limitations](#limitations)
 - [Recommendations](#recommendations)
-- [Reference](#reference)
+- [References](#references)
 
 ## Project Overview
 
@@ -121,7 +121,7 @@ The area chart was used to analyze the trend of profits over the months. This ap
 - **Optimize Outreach:** The organization should implement targeted marketing and outreach strategies during low-activity months to boost loan disbursements and maintain consistent activity throughout the year.
 
 
-## Reference
+## References
 
 - The Prosper Loan Dataset can be found [here](https://www.kaggle.com/datasets/nurudeenabdulsalaam/prosper-loan-dataset)
 - The interactive Loan Book Tableau Dashboard can be found [here](https://public.tableau.com/views/ProsperLoanDataTracking/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
