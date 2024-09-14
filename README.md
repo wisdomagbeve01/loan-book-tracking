@@ -120,7 +120,7 @@ The area chart was used to analyze the trend of profits over the months. This ap
 
 
 
-## References
+## Reference
 
 The Prosper Loan Dataset can be found [here](https://www.kaggle.com/datasets/nurudeenabdulsalaam/prosper-loan-dataset)
 
