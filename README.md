@@ -123,6 +123,8 @@ The area chart was used to analyze the trend of profits over the months. This ap
 
 ## Reference
 
-The Prosper Loan Dataset can be found [here](https://www.kaggle.com/datasets/nurudeenabdulsalaam/prosper-loan-dataset)
+- The Prosper Loan Dataset can be found [here](https://www.kaggle.com/datasets/nurudeenabdulsalaam/prosper-loan-dataset)
+- The interactive Loan Book Tableau Dashboard can be found [here](https://public.tableau.com/views/ProsperLoanDataTracking/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 
