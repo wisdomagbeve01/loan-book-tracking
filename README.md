@@ -116,9 +116,9 @@ The area chart was used to analyze the trend of profits over the months. This ap
 
 
 ## Recommendations
-- **Increase Monitoring:** Regularly monitor and analyze loan disbursement trends to identify peak periods and adjust strategies to capitalize on high-activity months.
-- **Risk Management:** Enhance risk management practices, especially during months with higher loss rates, to mitigate potential defaults and improve loan performance.
-- **Optimize Outreach:** Implement targeted marketing and outreach strategies during low-activity months to boost loan disbursements and maintain consistent activity throughout the year.
+- **Increase Monitoring:** The organization should regularly monitor and analyze loan disbursement trends to identify peak periods and adjust strategies to capitalize on high-activity months.
+- **Risk Management:** The organization should enhance risk management practices, especially during months with higher loss rates, to mitigate potential defaults and improve loan performance.
+- **Optimize Outreach:** The organization should implement targeted marketing and outreach strategies during low-activity months to boost loan disbursements and maintain consistent activity throughout the year.
 
 
 ## Reference
