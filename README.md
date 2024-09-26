@@ -1,4 +1,4 @@
-# Project
+# Loan Tracking Project
 
 ## Table of Contents
 
