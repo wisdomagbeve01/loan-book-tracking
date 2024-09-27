@@ -1,5 +1,9 @@
 # Loan Tracking Project
 
+<img src="https://cdn.hswstatic.com/gif/loan-personal.jpg" alt="MasterHead" width="5000"/>
+
+
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
